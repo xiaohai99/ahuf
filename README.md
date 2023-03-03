@@ -7,3 +7,6 @@
 <p align="center">
   安徽大学飞跃手册
 </p>
+
+
+本仓库是第一次搭建过程的草稿/历史遗留，请访问www.ahu.wiki或者https://github.com/AHUer-LeapLap/Impart-Inherit查看最新内容！
